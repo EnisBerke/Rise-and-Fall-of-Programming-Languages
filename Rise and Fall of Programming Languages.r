@@ -1,7 +1,5 @@
 
 # Load libraries
-# .... YOUR CODE FOR TASK 1 ....
-# .... YOUR CODE FOR TASK 1 ....
 library(readr)
 library(dplyr)
 library(RCurl)
